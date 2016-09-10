@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1452612954851.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E8D09122",
+    "lastKnownWriteTime" : 8316297137719964160,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "zg9oi3t3oz",
+        "caption" : "cred",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cred&cache_key=zg9oi3t3oz",
+        "displayedObservations" : 3506,
+        "environment" : "",
+        "object" : "cred",
+        "totalObservations" : 3506,
+        "variables" : 21
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
